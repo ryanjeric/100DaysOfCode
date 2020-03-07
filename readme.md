@@ -5,3 +5,4 @@
 ### Day3 : VENOM STACK [Vuejs,Express,NodeJs,MongoDB]
 ### Day4 : TypeScript
 ### DAY5 : TypeScript with NodeJs & Express / Async JS basics
+### DAY6 : Svelte (es-velt)
