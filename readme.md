@@ -6,4 +6,5 @@
 ### Day4 : TypeScript
 ### DAY5 : TypeScript with NodeJs & Express / Async JS basics
 ### DAY6 : Svelte (es-velt)
-### DAY7 : FLEXBOX CSS
+### DAY7 : CSS FLEXBOX
+### DAY8 : CSS GRID

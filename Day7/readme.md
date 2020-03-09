@@ -1,4 +1,4 @@
-# DAY 7 : FLEXBOX CSS
+# DAY 7 : CSS FLEXBOX
 
 | Date | March 8,2020 |
 | ------ | ------ |
