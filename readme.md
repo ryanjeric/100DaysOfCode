@@ -10,3 +10,4 @@
 ### DAY8  : CSS GRID
 ### DAY9  : Wordpress Theme w/ Bootstrap
 ### DAY10 : JavaScript Higher Order Functions & Arrays 
+### DAY11 : JavaScript Fractal Trees + HTML CANVAS
