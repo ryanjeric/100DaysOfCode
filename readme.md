@@ -12,3 +12,4 @@
 ### DAY10 : JavaScript Higher Order Functions & Arrays 
 ### DAY11 : JavaScript Fractal Trees + HTML CANVAS
 ### DAY12 : JavaScript + HTML CANVAS API
+### DAY13 : Python Twitter Bot Auto Like/Retweet
