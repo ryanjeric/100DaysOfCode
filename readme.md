@@ -13,3 +13,4 @@
 ### DAY11 : JavaScript Fractal Trees + HTML CANVAS
 ### DAY12 : JavaScript + HTML CANVAS API
 ### DAY13 : Python Twitter Bot Auto Like/Retweet
+### DAY14 : JavaScript OOP (ES5 & ES6)
