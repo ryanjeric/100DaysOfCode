@@ -11,3 +11,6 @@
 
 ## PREVIEW.
 ![Preview](Untitled.jpg)
+
+NOTE : 
+> Followed course/tutorial/guide -> Traversy Media : https://www.youtube.com/watch?v=PCWaFLy3VUo
