@@ -19,3 +19,4 @@
 ### DAY17 : Covid-19 Villasis Monitoring Project
 ### DAY18 : Web Components
 ### DAY19 : Angular - Todo List
+### DAY20 : Covid-19 Villasis Monitoring Project
