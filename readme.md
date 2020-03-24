@@ -22,3 +22,4 @@
 ### DAY20 : Covid-19 Villasis Monitoring Project
 ### DAY21 : Covid-19 Villasis Monitoring Project
 ### DAY22 : IONIC V4 - Rest duration App
+### DAY23 : IONIC V4 - Creating Template
