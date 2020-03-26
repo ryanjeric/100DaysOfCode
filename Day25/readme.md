@@ -5,5 +5,9 @@
 | START |1:06PM |
 | END | 2:23PM |
 
+> Able to call a Django Graphql Query and Mutation on Angular using apollo-angular
+
+>SOURCE :  https://www.techiediaries.com/graphql-tutorial/
+
 ## PREVIEW.
 ![Preview](Untitled.jpg)
