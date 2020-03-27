@@ -25,3 +25,4 @@
 ### DAY23 : IONIC V4 - Creating Template
 ### DAY24 : Django Graphql + Angular
 ### DAY25 : Django Graphql + Angular Part 2
+### DAY26 : Realtime Chat With Users & Rooms - Socket.io, Node & Express
