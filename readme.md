@@ -27,3 +27,4 @@
 ### DAY25 : Django Graphql + Angular Part 2
 ### DAY26 : Realtime Chat With Users & Rooms - Socket.io, Node & Express
 ### DAY27 : SASS (Syntactically Awesome Stylesheet)
+### DAY28 : Fullpage Animations With Javascript
