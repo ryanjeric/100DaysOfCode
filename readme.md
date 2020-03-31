@@ -29,3 +29,4 @@
 ### DAY27 : SASS (Syntactically Awesome Stylesheet)
 ### DAY28 : Fullpage Animations With Javascript
 ### DAY29 : React (create-react-app)
+### DAY30 : Parallax Landing Page - Rellax.js
