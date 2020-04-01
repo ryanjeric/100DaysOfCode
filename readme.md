@@ -30,3 +30,4 @@
 ### DAY28 : Fullpage Animations With Javascript
 ### DAY29 : React (create-react-app)
 ### DAY30 : Parallax Landing Page - Rellax.js
+### DAY31 : HTML, CSS, JS - Calculator
