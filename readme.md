@@ -31,3 +31,4 @@
 ### DAY29 : React (create-react-app)
 ### DAY30 : Parallax Landing Page - Rellax.js
 ### DAY31 : HTML, CSS, JS - Calculator
+### DAY32 : Intro to Python (Installation,Pycharm,Print,Input,List(array),Loop)
