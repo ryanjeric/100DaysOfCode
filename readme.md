@@ -32,3 +32,4 @@
 ### DAY30 : Parallax Landing Page - Rellax.js
 ### DAY31 : HTML, CSS, JS - Calculator
 ### DAY32 : Intro to Python (Installation,Pycharm,Print,Input,List(array),Loop)
+### DAY33 : Automate Boring Stuff w/ Python - Part 1
