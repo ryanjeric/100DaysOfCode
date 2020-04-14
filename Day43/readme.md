@@ -1,6 +1,6 @@
 # DAY 43 : Automate Boring Stuff w/ Python - Part 11
 
-## Section 14 - EMAIL
+## Section 15 - EMAIL
 > Sending emails (smtplib)
 > Checking Email Inbox[read/del] (imapclient,pyzmail36)
 
