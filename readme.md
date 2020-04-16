@@ -45,3 +45,4 @@
 ### DAY43 : Automate Boring Stuff w/ Python - Part 11
 ### DAY44 : Automate Boring Stuff w/ Python - Part 12 Final
 ### DAY45 : React & Tailwind CSS Image Gallery
+### DAY46 : Build A Python GUI App
