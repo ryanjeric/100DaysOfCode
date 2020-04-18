@@ -47,3 +47,4 @@
 ### DAY45 : React & Tailwind CSS Image Gallery
 ### DAY46 : Build A Python GUI App
 ### DAY47 : Python GUI App ( CRUD )
+### DAY48 : Easy Frontend JS Workflow With No Framework
