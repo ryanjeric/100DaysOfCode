@@ -1,4 +1,9 @@
 # DAY 49 : Python OOP - Part 1
+
+> Classes & Instances
+> Class/Instance Variables
+> classmethods & staticmethods
+
 | Date | April 19,2020 |
 | ------ | ------ |
 | START | 6:32PM |

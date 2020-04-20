@@ -49,3 +49,4 @@
 ### DAY47 : Python GUI App ( CRUD )
 ### DAY48 : Easy Frontend JS Workflow With No Framework
 ### DAY49 : Python OOP - Part 1
+### DAY50 : Python OOP - Part 2
