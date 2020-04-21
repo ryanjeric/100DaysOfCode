@@ -50,3 +50,4 @@
 ### DAY48 : Easy Frontend JS Workflow With No Framework
 ### DAY49 : Python OOP - Part 1
 ### DAY50 : Python OOP - Part 2
+### DAY51 : Brython ( A Python 3 implementation for client-side web programming )
