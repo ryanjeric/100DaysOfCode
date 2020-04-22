@@ -20,6 +20,3 @@ TUT : https://youtube.com/watch?v=VJj-H4we71g
 ## PREVIEW.
 ![Preview](Untitled.jpg)
 
-
-NOTE : 
-> Followed course/tutorial/guide -> https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc

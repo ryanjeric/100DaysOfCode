@@ -51,3 +51,4 @@
 ### DAY49 : Python OOP - Part 1
 ### DAY50 : Python OOP - Part 2
 ### DAY51 : Brython ( A Python 3 implementation for client-side web programming )
+### DAY52 : Programming Terms (Closure) - Part 1
