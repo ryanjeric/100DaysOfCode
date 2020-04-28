@@ -57,3 +57,4 @@
 ### DAY55 : Programming Terms (Combinations && Permutation)- Part 4
 ### DAY56 : Programming Terms (Idempotence)- Part 5
 ### DAY57 : Programming Terms (String Interpolation)- Part 6
+### DAY58 : Programming Terms (Pythonic)- Part 7
