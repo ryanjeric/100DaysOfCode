@@ -58,3 +58,4 @@
 ### DAY56 : Programming Terms (Idempotence)- Part 5
 ### DAY57 : Programming Terms (String Interpolation)- Part 6
 ### DAY58 : Programming Terms (Pythonic)- Part 7
+### DAY59 : Programming Terms (Iterables && Iterators)- Part 8
