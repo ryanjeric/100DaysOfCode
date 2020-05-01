@@ -60,3 +60,4 @@
 ### DAY58 : Programming Terms (Pythonic)- Part 7
 ### DAY59 : Programming Terms (Iterables && Iterators)- Part 8
 ### DAY60 : Strapi (CMS-REST API)
+### DAY61 : Redux
