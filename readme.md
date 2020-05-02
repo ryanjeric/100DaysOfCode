@@ -61,3 +61,4 @@
 ### DAY59 : Programming Terms (Iterables && Iterators)- Part 8
 ### DAY60 : Strapi (CMS-REST API)
 ### DAY61 : Redux
+### DAY62 : Go language (Intro)
