@@ -66,3 +66,4 @@
 ### DAY64 : Axios
 ### DAY65 : React-to-do-app-with-react-hooks-no-class-components
 ### DAY66 : ES2020-Optional chaining
+### DAY67 : 3D Animation w/ THREEJS
