@@ -70,3 +70,5 @@
 ### DAY68 : ES2020-?? Null Coalescing Operator
 ### DAY69 : Rock_Paper_Scissors_game.py
 ### DAY70 : Snake and ladder w/o Board.py
+### DAY71 : System info Electron App
+### DAY72 : Shopping List Electron App
