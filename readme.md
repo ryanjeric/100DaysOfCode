@@ -72,3 +72,4 @@
 ### DAY70 : Snake and ladder w/o Board.py
 ### DAY71 : System info Electron App
 ### DAY72 : Shopping List Electron App
+### DAY73 : Hangman Text based.py
