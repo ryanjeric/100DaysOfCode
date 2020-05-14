@@ -1,4 +1,4 @@
-#DAY 72 : Shopping List Electron App
+# DAY 72 : Shopping List Electron App
 
 > Create custom menu
 > Add/Delete list

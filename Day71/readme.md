@@ -1,4 +1,4 @@
-#DAY 71 : System info Electron App
+# DAY 71 : System info Electron App
 
 > Intro to Electron
 

@@ -1,4 +1,4 @@
-#DAY 73 : Hangman Text based.py
+# DAY 73 : Hangman Text based.py
 
 > Menu, SetDifficulty
 > Turning Dictionary.txt File to List 

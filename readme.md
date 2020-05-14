@@ -73,3 +73,4 @@
 ### DAY71 : System info Electron App
 ### DAY72 : Shopping List Electron App
 ### DAY73 : Hangman Text based.py
+### DAY74 : Python F-Strings 
