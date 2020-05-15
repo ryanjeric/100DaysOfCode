@@ -1,4 +1,4 @@
-# DAY 73 : Python F-Strings 
+# DAY 74 : Python F-Strings 
 > print(f'sample {variable}')
 
 | Date | May 14,2020 |
