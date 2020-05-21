@@ -80,3 +80,4 @@
 ### DAY78 : Python Unit Testing Concepts
 ### DAY79 : Python OS Module
 ### DAY80 : Deno Basics + DENO REST API
+### DAY81 : Magic 8 - Furtune teller or Seeking advice.py
