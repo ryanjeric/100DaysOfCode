@@ -82,3 +82,4 @@
 ### DAY80 : Deno Basics + DENO REST API
 ### DAY81 : Magic 8 - Furtune teller or Seeking advice.py
 ### DAY82 : C# Basics (WhileLoop,Console,Variables)
+### DAY83 : HTML5 Canvas - Paint APP
