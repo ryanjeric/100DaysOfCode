@@ -86,3 +86,4 @@
 ### DAY84 : Angular - TIC-TAC-TOE GAME
 ### DAY85 : Ajax (Vanilla JavaScript)
 ### DAY86 : Fetch API(Vanilla JavaScript)
+### DAY87 : Python SQLite 
