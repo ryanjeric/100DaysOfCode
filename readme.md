@@ -88,3 +88,4 @@
 ### DAY86 : Fetch API(Vanilla JavaScript)
 ### DAY87 : Python SQLite 
 ### DAY88 : React-Express Starter Pack
+### DAY89 : Input Animation using HTML+CSS
