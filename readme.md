@@ -95,3 +95,4 @@
 ### DAY91 : Music APP Beatmaker | JavaScript
 ### DAY92 : Python Working with JSON Data using the json Module
 ### DAY93 : Test Reaction GAME | JavaScript
+### DAY94 : PACMAN in vanilla JavaScript, HTML and CSS
