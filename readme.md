@@ -96,3 +96,4 @@
 ### DAY92 : Python Working with JSON Data using the json Module
 ### DAY93 : Test Reaction GAME | JavaScript
 ### DAY94 : PACMAN in vanilla JavaScript, HTML and CSS
+### DAY95 : MINESWEEPER game in pure JavaScript, HTML and CSS CSS while learning about RECURSION
