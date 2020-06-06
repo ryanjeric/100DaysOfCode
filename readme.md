@@ -98,3 +98,4 @@
 ### DAY94 : PACMAN in vanilla JavaScript, HTML and CSS
 ### DAY95 : MINESWEEPER game in pure JavaScript, HTML and CSS CSS while learning about RECURSION
 ### DAY96 : Jasmine - JavaScript Testing Framework
+### DAY97 : Google dinosaur game HTML+CSS+JS
